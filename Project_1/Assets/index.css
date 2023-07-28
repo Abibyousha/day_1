@@ -1,0 +1,56 @@
+body{
+    background: url("./images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+span{
+    
+    background-color: bisque;
+    height: auto;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+
+    
+}
+nav{
+    background-color: tan;
+    height: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    
+}
+button{
+    color: teal;
+    border: none;
+    outline: none;
+    background-color:  bisque ;
+    font-size: 20px;
+}
+h2{
+    margin-left: 120px;
+}
+
+.custom{
+    color: green;
+    margin-left: 90px;
+}
+.icons{
+    font-size: 30px;
+
+   
+}
+.icons a{
+    margin: 20px;
+    padding: 20px;
+}
+.icons  a :hover{
+    color: green;
+    transform: scale(1.5);
+}
